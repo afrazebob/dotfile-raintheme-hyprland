@@ -1,0 +1,13 @@
+[global]
+    font = Hack Nerd Font Mono 10
+    # Cores do seu tema (Roxo/Dracula)
+    background = "#282a36"
+    foreground = "#f8f8f2"
+    frame_color = "#bd93f9"
+    
+    frame_width = 2
+    corner_radius = 10
+    offset = 20x20
+    origin = top-right
+    separator_color = frame
+
